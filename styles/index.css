@@ -1,0 +1,19 @@
+/* Subcribe my You tube channel */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #111;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+canvas {
+    margin-top: 50px;
+    border-radius: 55px;
+}
+/* Subcribe my You tube channel */
